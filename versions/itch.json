@@ -1,0 +1,222 @@
+{
+  "2021.5.10i": {
+    "buildId": 396527,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2021.4.2i": {
+    "buildId": 383344,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2021.3.31.3s": {
+    "buildId": 378293,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2021.3.31.2s": {
+    "buildId": 378271,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2021.3.31i": {
+    "buildId": 378151,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2021.3.5i": {
+    "buildId": 367158,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2021.2.21i": {
+    "buildId": 367145,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2020.11.17i": {
+    "buildId": 326396,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2020.10.22i": {
+    "buildId": 317939,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2020.9.22i": {
+    "buildId": 304773,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2020.9.9i": {
+    "buildId": 301533,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.9.1i": {
+    "buildId": 296666,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.6.9i": {
+    "buildId": 267665,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.5.9i": {
+    "buildId": 258830,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.4.2i": {
+    "buildId": 242491,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.3.29i": {
+    "buildId": 240869,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.2.17i": {
+    "buildId": 232319,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.1.14i": {
+    "buildId": 222257,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2019.11.12i": {
+    "buildId": 208408,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2019.11.5i": {
+    "buildId": 206732,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2019.10.10i": {
+    "buildId": 200951,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.9.19i": {
+    "buildId": 195807,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.9.16i": {
+    "buildId": 195613,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.8.16i": {
+    "buildId": 187842,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.8.14i": {
+    "buildId": 187334,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.8.8.1s": {
+    "buildId": 185934,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.8.8i": {
+    "buildId": 185930,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.7.4i": {
+    "buildId": 177002,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.6.12i": {
+    "buildId": 171014,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.6.7i": {
+    "buildId": 169574,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.5.28i": {
+    "buildId": 167043,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.5.17i": {
+    "buildId": 163894,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.5.7i": {
+    "buildId": 161708,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.4.25i": {
+    "buildId": 158134,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.4.24i": {
+    "buildId": 157862,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.4.10i": {
+    "buildId": 154349,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.4.2i": {
+    "buildId": 152533,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.3.27i": {
+    "buildId": 151020,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.3.26i": {
+    "buildId": 150995,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.3.18i": {
+    "buildId": 149470,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.3.15i": {
+    "buildId": 148694,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.3.14i": {
+    "buildId": 148600,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.2.15i": {
+    "buildId": 148595,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.2.13i": {
+    "buildId": 141146,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  }
+}

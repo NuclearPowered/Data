@@ -1,4 +1,9 @@
 {
+  "2021.6.15s": {
+    "manifestId": 7234669263252285340,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
   "2021.5.25.2s": {
     "manifestId": 171532832512637061,
     "runtimeType": "il2cpp",
@@ -19,8 +24,23 @@
     "runtimeType": "il2cpp",
     "isObfuscated": true
   },
+  "2021.4.12.3s": {
+    "manifestId": 561588903677150922,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2021.4.12.2s": {
+    "manifestId": 1174154457806846890,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
   "2021.4.12s": {
     "manifestId": 2725166875026424465,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2021.4.1s": {
+    "manifestId": 5931353639126071699,
     "runtimeType": "il2cpp",
     "isObfuscated": true
   },
@@ -69,8 +89,18 @@
     "runtimeType": "il2cpp",
     "isObfuscated": true
   },
+  "2020.11.4s": {
+    "manifestId": 4864067279870826241,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
   "2020.10.22s": {
     "manifestId": 7477775776970303363,
+    "runtimeType": "il2cpp",
+    "isObfuscated": true
+  },
+  "2020.10.8s": {
+    "manifestId": 5859770739587340543,
     "runtimeType": "il2cpp",
     "isObfuscated": true
   },
@@ -80,9 +110,9 @@
     "isObfuscated": true
   },
   "2020.9.9s": {
-    "manifestId": 3596575937380717449,
+    "manifestId": 2464786790124989493,
     "runtimeType": "il2cpp",
-    "isObfuscated": false
+    "isObfuscated": true
   },
   "2020.9.1s": {
     "manifestId": 5957631781288795948,
@@ -94,8 +124,33 @@
     "runtimeType": "il2cpp",
     "isObfuscated": false
   },
+  "2020.8.30s": {
+    "manifestId": 9122522501126655913,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.8.29s": {
+    "manifestId": 3048785680925763143,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.8.28s": {
+    "manifestId": 2969929437139805598,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
   "2020.8.12s": {
     "manifestId": 8698757747328064493,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.7.23s": {
+    "manifestId": 4305727625765689152,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.7.6s": {
+    "manifestId": 1077390896565783934,
     "runtimeType": "il2cpp",
     "isObfuscated": false
   },
@@ -109,6 +164,21 @@
     "runtimeType": "il2cpp",
     "isObfuscated": false
   },
+  "2020.5.8s": {
+    "manifestId": 8089966103370573120,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.5.1s": {
+    "manifestId": 8131580020623851126,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.4.16s": {
+    "manifestId": 2544056774846539612,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
   "2020.4.2s": {
     "manifestId": 475238497445568226,
     "runtimeType": "il2cpp",
@@ -116,6 +186,26 @@
   },
   "2020.3.29s": {
     "manifestId": 3994640171417669001,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.3.28s": {
+    "manifestId": 5941273495018869695,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.3.27s": {
+    "manifestId": 1753760180925271472,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.3.26s": {
+    "manifestId": 1901514506041015577,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.3.25s": {
+    "manifestId": 9016216997846257618,
     "runtimeType": "il2cpp",
     "isObfuscated": false
   },
@@ -129,8 +219,28 @@
     "runtimeType": "il2cpp",
     "isObfuscated": false
   },
+  "2020.2.3s": {
+    "manifestId": 3834919075311705187,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
   "2020.1.14s": {
-    "manifestId": 878284256271052527,
+    "manifestId": 9195143096043940537,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2020.1.7s": {
+    "manifestId": 3853349489251939452,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2019.12.17s": {
+    "manifestId": 3524285236356291220,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
+  "2019.12.16s": {
+    "manifestId": 1497821863940117810,
     "runtimeType": "il2cpp",
     "isObfuscated": false
   },
@@ -149,8 +259,38 @@
     "runtimeType": "mono",
     "isObfuscated": false
   },
+  "2019.10.9s": {
+    "manifestId": 8494426732031758161,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.10.6s": {
+    "manifestId": 6527752251973228526,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.10.2s": {
+    "manifestId": 955411239767976170,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.9.30s": {
+    "manifestId": 127926645472892897,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
   "2019.9.23s": {
     "manifestId": 2167646944188172952,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.9.25s": {
+    "manifestId": 4500906969271994859,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.9.20s": {
+    "manifestId": 3497794822334916912,
     "runtimeType": "mono",
     "isObfuscated": false
   },
@@ -164,6 +304,21 @@
     "runtimeType": "mono",
     "isObfuscated": false
   },
+  "2019.9.15s": {
+    "manifestId": 6573921668254250956,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.9.14s": {
+    "manifestId": 5405666694530024903,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.9.13s": {
+    "manifestId": 7379656974275175069,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
   "2019.8.16s": {
     "manifestId": 4385175685083117509,
     "runtimeType": "mono",
@@ -171,6 +326,11 @@
   },
   "2019.8.14s": {
     "manifestId": 5945917208010567623,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.8.13s": {
+    "manifestId": 5962408341895302177,
     "runtimeType": "mono",
     "isObfuscated": false
   },
@@ -189,13 +349,38 @@
     "runtimeType": "mono",
     "isObfuscated": false
   },
+  "2019.7.26s": {
+    "manifestId": 5359308113468492702,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
   "2019.7.4s": {
     "manifestId": 7186260138298587071,
     "runtimeType": "mono",
     "isObfuscated": false
   },
+  "2019.6.28s": {
+    "manifestId": 8261564238886847551,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.6.25s": {
+    "manifestId": 1197559547594900787,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.6.24s": {
+    "manifestId": 1570643213576973210,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
   "2019.6.12s": {
     "manifestId": 5010938690406122702,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.6.10s": {
+    "manifestId": 2493037256498459973,
     "runtimeType": "mono",
     "isObfuscated": false
   },
@@ -205,7 +390,17 @@
     "isObfuscated": false
   },
   "2019.5.28s": {
-    "manifestId": 8699174204254929333,
+    "manifestId": 8636107755173744429,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.5.23s": {
+    "manifestId": 3115389159281200834,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.5.22s": {
+    "manifestId": 3472244146338868390,
     "runtimeType": "mono",
     "isObfuscated": false
   },
@@ -214,8 +409,23 @@
     "runtimeType": "mono",
     "isObfuscated": false
   },
+  "2019.5.16s": {
+    "manifestId": 5912864921266740235,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
   "2019.5.7s": {
     "manifestId": 7273856856287283601,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.5.2s": {
+    "manifestId": 3288271444334269805,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.5.1s": {
+    "manifestId": 6715021943707933585,
     "runtimeType": "mono",
     "isObfuscated": false
   },
@@ -231,6 +441,11 @@
   },
   "2019.4.10s": {
     "manifestId": 2095103347185003641,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
+  "2019.4.4s": {
+    "manifestId": 498110597034119912,
     "runtimeType": "mono",
     "isObfuscated": false
   },
@@ -269,8 +484,13 @@
     "runtimeType": "mono",
     "isObfuscated": false
   },
+  "2019.2.15.1s": {
+    "manifestId": 8522075763479428420,
+    "runtimeType": "mono",
+    "isObfuscated": false
+  },
   "2019.2.15s": {
-    "manifestId": 9120373472201243210,
+    "manifestId": 4927998429529076670,
     "runtimeType": "mono",
     "isObfuscated": false
   },

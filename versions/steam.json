@@ -1,4 +1,9 @@
 {
+  "2021.6.30s": {
+    "manifestId": 3510344350358296660,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
   "2021.6.15s": {
     "manifestId": 7234669263252285340,
     "runtimeType": "il2cpp",

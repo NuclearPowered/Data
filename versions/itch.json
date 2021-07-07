@@ -1,4 +1,9 @@
 {
+  "2021.6.30i": {
+    "buildId": 420642,
+    "runtimeType": "il2cpp",
+    "isObfuscated": false
+  },
   "2021.6.15i": {
     "buildId": 411064,
     "runtimeType": "il2cpp",

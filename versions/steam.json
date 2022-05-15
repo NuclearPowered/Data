@@ -3,15 +3,47 @@
     "appID": 945360,
     "DepotID": 945361,
     "Version": {
-      "2021.11.9": {
-        "manifestId": 
+      "2022.3.29s": {
+        "manifestId": 1994315496259700450,
+        "runTimeType": "il2cpp",
+        "isObfuscated": false
       },
-      "2021.6.30": {
+      "2022.2.23s": {
+        "manifestId": 4946739663065807500,
+        "runTimeType": "il2cpp",
+        "isObfuscated": false
+      },
+      "2022.2.8s": {
+        "manifestId": 623947946057191577,
+        "runTimeType": "il2cpp",
+        "isObfuscated": false
+      },
+      "2021.12.15s": {
+        "manifestId": 407539178195941172,
+        "runTimeType": "il2cpp",
+        "isObfuscated": false
+      },
+      "2021.12.14s": {
+        "manifestId": 781144051117197771,
+        "runTimeType": "il2cpp",
+        "isObfuscated": false
+      },
+      "2021.11.9.5s": {
+        "manifestId": 7660376491134459569,
+        "runTimeType": "il2cpp",
+        "isObfuscated": false
+      },
+      "2021.11.9s": {
+        "manifestId": 6548228893653594809,
+        "runTimeType": "il2cpp",
+        "isObfuscated": false
+      },
+      "2021.6.30s": {
         "manifestId": 3510344350358296660,
         "runTimeType": "il2cpp",
         "isObfuscated": false
       },
-      "2021.6.15": {
+      "2021.6.15s": {
         "manifestId": 7234669263252285340,
         "runtimeType": "il2cpp",
         "isObfuscated": false
